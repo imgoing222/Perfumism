@@ -51,6 +51,7 @@ $ ./gradlew bootRun
 
 ### 메인화면
 ![image-20220406160634958](https://github.com/jin0106/Perfumism/raw/master/README.assets/image-20220406160634958.png)
+![unknown](https://user-images.githubusercontent.com/87457698/175480459-342483ef-ba56-4e2c-b076-d6bb7a0754c0.png)
 ![image-20220406162426098](https://github.com/jin0106/Perfumism/raw/master/README.assets/image-20220406162426098.png)
 
 - 알림 기능
